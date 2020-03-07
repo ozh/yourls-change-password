@@ -51,7 +51,7 @@ function ozh_chgpwd_do_page() {
         if($update !== true) {
             ozh_chgpwd_die(yourls__('Fatal error :' . $update));
         } else {
-            yourls_add_notice(yourls__('Password updated'));
+            echo yourls_notice_box(yourls__('Password updated'));
         }
     }
 
