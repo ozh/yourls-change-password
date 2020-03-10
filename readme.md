@@ -6,7 +6,7 @@ This plugin allows updating your password from the web instead of having to edit
 
 This makes YOURLS integrate more easily with your password manager if you are using one.
 
-If you are not using one, do consider doing it. Don't bother remember secure passwords, let tools do it for you. I (Ozh) use <a href="https://lastpass.com/f?93404531">Lastpass</a> for me and my family, and I whole heartedly recommend it.
+If you are not using one, do consider doing it. Don't bother remember secure passwords, let tools do it for you. I (Ozh) use <a href="http://yourls.org/lastpass">Lastpass</a> for me and my family, and I whole heartedly recommend it.
 
 
 # How to
