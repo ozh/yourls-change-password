@@ -8,6 +8,8 @@ This makes YOURLS integrate more easily with your password manager if you are us
 
 If you are not using one, do consider doing it. Don't bother remember secure passwords, let tools do it for you. I (Ozh) use <a href="http://yourls.org/lastpass">Lastpass</a> for me and my family, and I whole heartedly recommend it.
 
+![image](https://user-images.githubusercontent.com/223647/76363613-b29f2200-6323-11ea-83b4-4cac9f7bcd57.png)
+
 
 # How to
 
