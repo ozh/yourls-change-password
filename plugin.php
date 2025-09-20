@@ -61,7 +61,9 @@ function ozh_chgpwd_do_page() {
     echo <<<HTML
         <h2>Change your password</h2>
 
-        <p>Update your password from the web page rather than editing a config file. This makes it easier for instance to integrate YOURLS with your password manager. Don't bother remember secure passwords, let tools do it for you. I (Ozh) use <a href="http://yourls.org/lastpass">Lastpass</a> for me and my family, and I whole heartedly recommend it.</p>
+        <p>Update your password from the web page rather than editing a config file. This makes it easier for instance to integrate YOURLS with your password manager.
+        Don't bother remember secure passwords, let tools do it for you.
+        We recommend using <a href="https://proton.me/pass">Proton Pass</a> or <a href="https://1password.com">1Password</a>.</p>
 
         <form method="post">
         <input type="hidden" name="nonce" value="$nonce" />
