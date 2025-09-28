@@ -8,9 +8,9 @@ This plugin allows updating your password from the web instead of having to edit
 
 This makes YOURLS integrate more easily with your password manager if you are using one.
 
-If you are not using one, do consider doing it. Don't bother remember secure passwords, let tools do it for you.
+If you are not using one, do consider doing it. Don't bother remember secure passwords, let tools (a password manager) do it for you. We recommend using <a href="https://yourls.org/proton">Proton Pass</a> or <a href="https://1password.com">1Password</a>.
 
-![image](https://user-images.githubusercontent.com/223647/76363613-b29f2200-6323-11ea-83b4-4cac9f7bcd57.png)
+<img width="1012" height="427" alt="image" src="https://github.com/user-attachments/assets/5c151468-a7ef-434f-a11a-c2270bc12a7e" />
 
 
 ## How to
